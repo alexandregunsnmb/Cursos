@@ -7,3 +7,5 @@
 > https://club.automatiklabs.com.br/feed
 
 > https://web.dio.me/play
+
+> https://plataforma.pythonando.com.br/membros/ 🏅
