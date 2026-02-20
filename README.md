@@ -9,3 +9,9 @@
 > https://web.dio.me/play
 
 > https://plataforma.pythonando.com.br/membros/ 🏅
+
+### Curso de Workflow, projeto
+> https://app.rocketseat.com.br/eventos/nlw-operator/visao-geral
+
+### Bootcamp SaaS de Agendamentos para Clínicas
+> https://alunos.fullstackclub.com.br/area/vitrine
