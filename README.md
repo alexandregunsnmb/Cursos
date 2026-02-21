@@ -18,5 +18,7 @@
 ### Curso de Workflow, projeto
 > https://app.rocketseat.com.br/eventos/nlw-operator/visao-geral
 
-### Bootcamp SaaS de Agendamentos para Clínicas
+### fullstackclub (Node.js e React)
+> https://alunos.fullstackclub.com.br/area/vitrine
+##### Bootcamp SaaS de Agendamentos para Clínicas
 > https://alunos.fullstackclub.com.br/area/vitrine
