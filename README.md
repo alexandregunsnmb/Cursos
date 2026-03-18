@@ -22,3 +22,6 @@
 > https://alunos.fullstackclub.com.br/area/vitrine
 ##### Bootcamp SaaS de Agendamentos para Clínicas
 > https://alunos.fullstackclub.com.br/area/vitrine
+
+### 🟥 Di Dev (Criando API Rest com FastAPI (PostgreSQL, Async SQLAlchemy, AIOHTTP)
+>https://www.youtube.com/watch?v=1CZZAhwqyco&list=PLyIsgi-C8ysKADa3LdOynePIQ5-qRIUti&index=2
