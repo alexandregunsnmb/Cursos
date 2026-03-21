@@ -25,3 +25,6 @@
 
 ### 🟥 Di Dev (Criando API Rest com FastAPI (PostgreSQL, Async SQLAlchemy, AIOHTTP)
 >https://www.youtube.com/watch?v=1CZZAhwqyco&list=PLyIsgi-C8ysKADa3LdOynePIQ5-qRIUti&index=2
+
+### 🟡 lemoncode21
+https://www.youtube.com/watch?v=GtFfrOng-A0
